@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+node_modules
+package-lock.json
+README.md
+*.jpg
+*.png
+favicon.ico
+robots.txt
