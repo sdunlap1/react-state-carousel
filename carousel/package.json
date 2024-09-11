@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "*",
     "@testing-library/react": "*",
     "@testing-library/user-event": "*",
+    "@testing-library/jest-dom": "^6.5.0",
     "bootstrap-icons": "^1.8.3",
-    "react": "*",
-    "react-dom": "*",
-    "react-scripts": "*",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
     "web-vitals": "*"
   },
   "scripts": {
